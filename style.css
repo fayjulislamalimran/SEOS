@@ -1,0 +1,64 @@
+:root {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-color: #ffffff;
+}
+/* This is navbar start */
+.navList {
+  color: #002e5b;
+  font-weight: 50px;
+  padding: 39px 19px;
+  font-weight: 400;
+  font-size: 20px;
+}
+.navLis:hover {
+  color: #ff5c97;
+}
+.navBtn {
+  color: #ffffff;
+  background: #4043bc;
+}
+.contactBtn:hover {
+  color: #ffffff;
+  background: #ff5c97;
+}
+/* This is navbar end  */
+/* This is hero start */
+.header-titel {
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 14px;
+  color: #2b4b80;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.2;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+}
+
+.contactBtn {
+  background: #ff5c97;
+  text-transform: capitalize;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 0;
+  margin-bottom: 0;
+  padding: 30px 44px;
+  border-radius: 5px;
+  min-width: 200px;
+  cursor: pointer;
+  transition: color 0.4s linear;
+  position: relative;
+  z-index: 1;
+  border: 0;
+  overflow: hidden;
+  margin: 0;
+}
+/* This is hero end  */
+
+
